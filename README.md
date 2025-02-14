@@ -1,20 +1,21 @@
 # README
 Convert SVG to icons in the various format required for making applications for various OSes.
 
-## Installation with venv/pip:
+## Installation with venv/pip
 `git clone https://github.com/cedbeu/svg-to-icons.git`
 
 `cd svg-to-icons`
 
 `python3 -m venv venv`
 
+`source venv/bin/activate`
+
+`pip install --upgrade pip`
+
 `pip install -r requirements.txt`
 
-## Input:
-Place your square SVG file(s) in the script directory (`svg-to-icons`)
-
-## Usage
-`source venv/bin/activate`
+## Input & Usage
+Place your square SVG file(s) in the script directory (`svg-to-icons`) and run:
 
 `python svg-to-icons.py`
 
@@ -24,7 +25,7 @@ Current version outputs the following formats:
 ```
 svg-to-icons/
   └ output/
-    └ input_icon_name/
+    └ {input_icon_name}/
       │─ icon.ico # windows 256x256
       │─ icon.icns # macOS various formats (regular & retina)
       │─ icon_16.png
