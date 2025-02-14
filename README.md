@@ -1,3 +1,4 @@
+# svg-to-icons
 ![Version](https://img.shields.io/github/v/tag/cedbeu/svg-to-icons?label=version&style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat)
@@ -6,7 +7,6 @@
 ![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-yellow?style=flat)
 ![CairoSVG](https://img.shields.io/badge/CairoSVG-SVG%20Rendering-purple?style=flat)
 
-# README
 Convert SVG to icons in the various format required for making applications for various OSes.
 
 ## Installation with venv/pip
