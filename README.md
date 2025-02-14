@@ -6,7 +6,7 @@ Convert SVG to icons in the various format required for making applications for 
 
 `cd svg-to-icons`
 
-`python -m venv venv`
+`python3 -m venv venv`
 
 `pip install -r requirements.txt`
 
