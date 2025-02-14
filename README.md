@@ -1,8 +1,6 @@
 # README
 Convert SVG to icons in the various format required for making applications for various OSes.
 
-For exemple, in order to make a universal Electron app.
-
 ## Installation with venv/pip:
 `git clone https://github.com/cedbeu/svg-to-icons.git`
 
