@@ -1,3 +1,8 @@
+black
+flake8
+pytest
+pytest-bdd
+
 click
 pillow
 cairosvg

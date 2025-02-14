@@ -1,0 +1,14 @@
+[tool.black]
+line-length = 79
+exclude = '''
+/(
+    .git
+  | .tox
+  | .nox
+  | .coverage
+  | .hypothesis
+  | .pytest_cache
+  | venv
+  | site-packages
+)/
+'''
