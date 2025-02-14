@@ -1,3 +1,5 @@
+![Release Version](https://img.shields.io/github/v/tag/cedbeu/svg-to-icons?label=version&style=flat-square)
+![Python 3.9](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
 ![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
