@@ -5,12 +5,16 @@ Convert SVG to icons in the various format required for making applications for 
 For exemple, in order to make a universal Electron app.
 
 ## Installation with venv/pip:
+`https://github.com/cedbeu/svg-to-icons.git`
+
+`cd svg-to-icons`
+
 `python -m venv venv`
 
 `pip install -r requirements.txt`
 
 ## Input:
-Place your square SVG file(s) in the script directory
+Place your square SVG file(s) in the script directory (`svg-to-icons`)
 
 ## Usage
 `source venv/bin/activate`
