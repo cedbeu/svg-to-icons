@@ -1,11 +1,10 @@
-![Release Version](https://img.shields.io/github/v/tag/cedbeu/svg-to-icons?label=version&style=flat-square)
-![Python 3.9](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
-![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
-![Click](https://img.shields.io/badge/Click-CLI-orange?style=flat-square)
-![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-yellow?style=flat-square)
-![CairoSVG](https://img.shields.io/badge/CairoSVG-SVG%20Rendering-purple?style=flat-square)
+![Version](https://img.shields.io/github/v/tag/cedbeu/svg-to-icons?label=version&style=flat)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat)
+![Python 3.9](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
+![Click](https://img.shields.io/badge/Click-CLI-orange?style=flat)
+![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-yellow?style=flat)
+![CairoSVG](https://img.shields.io/badge/CairoSVG-SVG%20Rendering-purple?style=flat)
 
 # README
 Convert SVG to icons in the various format required for making applications for various OSes.
