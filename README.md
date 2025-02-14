@@ -1,9 +1,9 @@
-![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
-![Click](https://img.shields.io/badge/Click-CLI-orange?style=for-the-badge)
-![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-yellow?style=for-the-badge)
-![CairoSVG](https://img.shields.io/badge/CairoSVG-SVG%20Rendering-purple?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![Click](https://img.shields.io/badge/Click-CLI-orange?style=flat-square)
+![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-yellow?style=flat-square)
+![CairoSVG](https://img.shields.io/badge/CairoSVG-SVG%20Rendering-purple?style=flat-square)
 
 # README
 Convert SVG to icons in the various format required for making applications for various OSes.
