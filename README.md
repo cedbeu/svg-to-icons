@@ -1,5 +1,4 @@
 # README
-
 Convert SVG to icons in the various format required for making applications for various OSes.
 
 For exemple, in order to make a universal Electron app.
@@ -22,7 +21,6 @@ Place your square SVG file(s) in the script directory (`svg-to-icons`)
 `python svg-to-icons.py`
 
 ## Output
-
 Current version outputs the following formats:
 
 ```
