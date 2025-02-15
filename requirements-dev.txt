@@ -1,0 +1,8 @@
+-r requirements.txt
+
+black
+flake8
+pytest
+pytest-bdd
+pre-commit
+bump2version
