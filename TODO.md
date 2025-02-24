@@ -8,3 +8,8 @@
 * configure and use setuptools
 * configure and use flake8 (linting)
 * configure and use pytest and pytest-bdd
+* update README for setup/prod/dev/etc.
+* tests under other platforms (unix-like, windows)
+* write tests
+* automate icons
+* setup some CI/CD actions on github (linting, tests, etc.)
